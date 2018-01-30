@@ -1,6 +1,7 @@
-# d3_nights
+# D3 Nights
 
-Data Visualization Overview
+
+## Data Visualization Overview
 
 ### Why visualize data?
 [Anscombes Quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)

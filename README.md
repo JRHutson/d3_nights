@@ -45,3 +45,8 @@
 
 * V3: http://bl.ocks.org/brandonhaydu/2eb8987cdb19c1826c7a5e55179de9fe
 * V4: http://bl.ocks.org/brandonhaydu/bbac735600b1de910243f41d38857c94/d85eec49c865aa569d2ede761efd9564cba40e61
+
+#### Additional Resources
+* [D3 Mike Bostock](https://github.com/d3/d3/wiki/Tutorials) (creator of D3) has collected a list of D3 tutorials many written by him. They include links to talks and video examples
+* [D3 Tutorials by Scott Murray](http://alignedleft.com/tutorials/d3)
+* maptimeLA tutorial [Turning food bank data into a D3 map](https://github.com/maptimeLA/d3-foodpantries) made by maptimer [Jon Schleuss](https://github.com/jschleuss)! 

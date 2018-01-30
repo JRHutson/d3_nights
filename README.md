@@ -4,8 +4,8 @@
 ## Data Visualization Overview
 
 ### Why visualize data?
-[Anscombes Quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
-[Marks and Channels (pg 67+)](http://www.cs171.org/2015/assets/slides/05-marks_channels.pdf)
+* [Anscombes Quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet)
+* [Marks and Channels (pg 67+)](http://www.cs171.org/2015/assets/slides/05-marks_channels.pdf)
 
 
 
